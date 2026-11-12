@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://kekehyu-guest-reg.onrender.com/api',
-  wsUrl: 'https://kekehyu-guest-reg.onrender.com',
+  apiUrl: 'http://localhost:3000/api',
+  wsUrl: 'http://localhost:3000',
 };
